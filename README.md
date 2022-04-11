@@ -1,4 +1,4 @@
-# House Prediction using ElasticNet Regression Model
+# House Price Prediction using Linear Regression
 The Dataset is copyright by Pierian Data, Inc
 Exercise Project from Data Science Bootcamp on Udemy, Jose Portilla
 
@@ -15,7 +15,7 @@ Final Step is Performing the Machine Learning model to get predicted price and s
 - Separate the feature and label
 - Do the Train test split (to get training data and testing data)
 - Scaling data
-- Make a model (I'm using the ElasticNet Model)
+- Make a model
 - Doing Cross Validation (GridSearchCV)
 - Fit the Model
 - Get Predict
